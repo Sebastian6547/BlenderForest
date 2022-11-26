@@ -1,7 +1,7 @@
 # Forest Animation
 Personal Project that I did in my last year of Secondary school. 
 
-I created a simple animation consisting of a bird's-eye view of a forest.
+I created a simple animation in Blender consisting of a bird's-eye view of a forest.
 I made every part of the 3D model myself.
 
 ## Tree
